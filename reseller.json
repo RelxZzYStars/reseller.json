@@ -1,1 +1,7 @@
+{
+  "resellers": [
+    { "name": "kyy", "contact": "08123456789" },
+    { "name": "Reseller 2", "contact": "08234567890" }
+  ]
+}
 
